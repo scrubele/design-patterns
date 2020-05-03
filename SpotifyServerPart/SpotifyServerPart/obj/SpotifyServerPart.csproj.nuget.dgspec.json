@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\university\\templating\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj": {}
+    "D:\\university\\design-patterns\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj": {}
   },
   "projects": {
-    "D:\\university\\templating\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj": {
+    "D:\\university\\design-patterns\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\university\\templating\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj",
+        "projectUniqueName": "D:\\university\\design-patterns\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj",
         "projectName": "SpotifyServerPart",
-        "projectPath": "D:\\university\\templating\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj",
+        "projectPath": "D:\\university\\design-patterns\\SpotifyServerPart\\SpotifyServerPart\\SpotifyServerPart.csproj",
         "packagesPath": "C:\\Users\\manko\\.nuget\\packages\\",
-        "outputPath": "D:\\university\\templating\\SpotifyServerPart\\SpotifyServerPart\\obj\\",
+        "outputPath": "D:\\university\\design-patterns\\SpotifyServerPart\\SpotifyServerPart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

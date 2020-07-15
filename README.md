@@ -1,5 +1,4 @@
 # design-patterns
-A repository for the design pattern training.
 
 In order to run a MS SQL database, execute:
 ```

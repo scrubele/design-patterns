@@ -1,19 +1,21 @@
-# design-patterns
-A repository for the design pattern training.
+# Flask spotify app
+## Installation
 
-In order to run a MS SQL database, execute:
+**Installation via `requirements.txt`**:
+
+```shell
+$ python3 -m venv myenv
+$ source myenv/bin/activate
+$ pip3 install -r requirements.txt
+$ python3 run.py
 ```
-sudo docker-compose up -d
+## Configuration
+
+Configuration is handled by creating a **.env** file. This should contain the following variables (replace the values with your own):
+
+```.env
+FLASK_ENV="production"
+SECRET_KEY="YOURSECRETKEY"
+SQLALCHEMY_DATABASE_URI="mysql+pymysql://[USER]:[PASSWORD]@[HOST]:[PORT]/[DATABASE_NAME]"
 ```
 
-To access a db, run:
-```
-sudo docker exec -it sql-server-db "bash"
-```
-**sqlcmd** editor example:
-```
-1> Create database testDB
-2> go
-1> SELECT Name from sys.Databases
-2> go
-```
